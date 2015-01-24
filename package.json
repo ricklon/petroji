@@ -1,0 +1,24 @@
+{
+  "name": "petroji",
+  "version": "0.0.1",
+  "description": "petroji - GGJ2015 RVCC",
+  "main": "",
+  "scripts": {},
+  "keywords": [
+    "ggj2015",
+    "RVCC"
+  ],
+  "author": "",
+  "license": "",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "3.8.X",
+    "gulp-concat": "~2.4.3",
+    "gulp-uglify": "~1.1.0",
+    "gulp-jshint": "~1.9.0",
+    "jshint-stylish": "~1.0.0"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
